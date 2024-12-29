@@ -4,7 +4,7 @@
 **Installation Guide**
 1 > Click on "<> Code " button, at the bottom there should be a button the reads "Download ZIP".
 
-2 > Click "Download ZIP"
+2 > Click "Download ZIP".
 
 3 > Drag file to desktop.
 
@@ -26,3 +26,5 @@ A : Upgrade how much cash you earn per second by clicking "Buy Worker", Sell you
 
 # Screenshots
 ![alt-text](/files/thumb.png)
+
+### Enjoy!
