@@ -3,9 +3,7 @@
 
 **Installation Guide**
 1 > Click on "<> Code " button, at the bottom there should be a button the reads "Download ZIP".
-\n
 2 > Click "Download ZIP"
-\n
 3 > Drag file to desktop.
 4 > Double click the zip file to extract its contents.
 5 > Open Sell-Counterfeit...r-main (File).
